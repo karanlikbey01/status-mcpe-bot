@@ -1,0 +1,2 @@
+node statut.js
+pause
